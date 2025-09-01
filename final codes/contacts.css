@@ -1,0 +1,65 @@
+*
+{margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(131, 97, 150); 
+    border: border-box;
+    
+    }
+.navbar{ height: 50px;
+background-color: darkblue;
+color: aliceblue;
+display: flex;
+align-items: center;
+justify-content:space-between;}  
+.logobg{ background-image: url("#") ;
+background-size: cover;
+margin-left: 0;
+
+height: 50px;
+width: 90px;}
+ .border{border: 2px transparent;}
+ .border:hover{border: 1px solid white;}
+
+a{text-decoration: none;
+background-color:darkblue;
+color: aliceblue;
+align-items: center;
+margin-right: 50%;
+justify-content:space-evenly ;
+ ;}
+ .contacts{
+     margin-right: 30px;
+
+ }
+ h1{text-align: center;}
+ p{color: black;}
+ input{color: black;
+background-color: antiquewhite;}
+input[text=text],select,textarea{
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    resize: vertical;
+
+}
+textarea{background-color: aliceblue;
+color: #000;}
+input[type=submit]{
+    background-color: aquamarine;
+    color: #000;
+    cursor: pointer;
+    align-items: center;
+    text-align: center;
+}
+input[type=submit]:hover{background-color: cornflowerblue;}
+.container{border-radius: 5px;
+background-color: antiquewhite;
+padding: 20px;}
+.logo{background-image :url("ask.jpg");
+height: 50px;
+width: 100%;
+background-size:cover;} 
+

@@ -1,0 +1,42 @@
+*
+{margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(131, 97, 150); 
+    border: border-box;
+     ;
+    
+    }
+.navbar{ height: 50px;
+background-color: darkblue;
+color: aliceblue;
+display: flex;
+align-items: center;
+justify-content:space-between;
+}  
+.logobg{ 
+background-size: cover;
+margin-left: 0;
+
+height: 50px;
+width: 90px;}
+ .border{border: 2px transparent;}
+ .border:hover{border: 1px solid white;}
+
+a{text-decoration: none;
+background-color:darkblue;
+color: aliceblue;
+align-items: center;
+margin-right: 50%;
+justify-content:space-evenly ;
+ ;}
+ .contacts{
+     margin-right: 30px;
+
+ }
+ .welcome{text-align: center;}
+ .heading{background-color: transparent;}
+ p{background-color: transparent;}
+.logo{background-image :url("ask.jpg");
+height: 50px;
+width: 100%;
+background-size:cover;} 
